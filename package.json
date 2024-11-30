@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "firebase": "^11.0.2",
+    "react-router-dom": "^6.28.0",
+    "websocket": "^1.0.35",
+    "ws": "^8.18.0"
+  },
+  "name": "4th-year",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
